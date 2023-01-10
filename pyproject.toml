@@ -3,8 +3,8 @@ requires = ["flit_core >=2,<4"]
 build-backend = "flit_core.buildapi"
 
 [tool.flit.metadata]
-module = "svg"
-dist-name = "svg.py"
+module = "svgsvg"
+dist-name = "svgsvg.py"
 license = "MIT"
 author = "Gram"
 author-email = "gram@orsinium.dev"
