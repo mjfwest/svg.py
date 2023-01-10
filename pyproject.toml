@@ -4,7 +4,7 @@ build-backend = "flit_core.buildapi"
 
 [tool.flit.metadata]
 module = "svgsvg"
-dist-name = "svgsvg.py"
+dist-name = "svg.py"
 license = "MIT"
 author = "Gram"
 author-email = "gram@orsinium.dev"
